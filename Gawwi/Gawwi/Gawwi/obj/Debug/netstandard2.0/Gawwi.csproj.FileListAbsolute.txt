@@ -1,0 +1,13 @@
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\bin\Debug\netstandard2.0\Gawwi.deps.json
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\bin\Debug\netstandard2.0\Gawwi.dll
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\obj\Debug\netstandard2.0\Gawwi.csproj.CoreCompileInputs.cache
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\obj\Debug\netstandard2.0\Gawwi.AssemblyInfoInputs.cache
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\obj\Debug\netstandard2.0\Gawwi.AssemblyInfo.cs
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\bin\Debug\netstandard2.0\ref\Gawwi.dll
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\bin\Debug\netstandard2.0\Gawwi.pdb
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\obj\Debug\netstandard2.0\Gawwi.dll
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\obj\Debug\netstandard2.0\ref\Gawwi.dll
+C:\Users\ALI FCI\source\repos\Gawwi\Gawwi\Gawwi\obj\Debug\netstandard2.0\Gawwi.pdb
